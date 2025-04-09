@@ -10,7 +10,7 @@ Este proyecto consume la API pública de Rick and Morty para obtener informació
 
 Consume la siguiente API:
 
-[[https://rickandmortyapi.com/api/character](https://rickandmortyapi.com/api/character)](https://rickandmortyapi.com/api)
+[https://rickandmortyapi.com/api/character](https://rickandmortyapi.com/api)
 
 Realiza scripts en el lenguaje de programación que domines (en este caso, **Python**) para consumir a los **personajes principales** y obtener los personajes **vivos** de esta serie.
 
